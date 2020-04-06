@@ -1,4 +1,4 @@
-# Learn_vim in 15 mins
+# Learn_vim
 
 Learn VIM keys
 
@@ -17,11 +17,11 @@ Learn VIM keys
 
 ## 1. Target audience
 
-- person who
+- People who
+    - use terminal on daily basis
     - edit text files on daily basis
-    - work with a script
+    - work with any type of programming script
     - work with a fair number of consistently named files (~ 1000)
-    - use terminal
 
 + people who work with MR neuroimaging data
 
@@ -33,21 +33,21 @@ Learn VIM keys
 
 
 
-## 2. Plan
+## 3. Plan
 
-### 5, 10, 5, 4
+### 10, 10, 5, 4
 
-- 5 mins a day
+- 10 mins a day
 - 10 mins with your own document
 - five days a week
 - for four weeks
-- daily contents will focus heavily in revision
-
+- daily contents will focus heavily on revision
 
 
 ## Day 1
-## 3. Basic keys
-## 4. VIM basic configuration
+
+### 1. Basic keys
+### 2. VIM basic configuration
 
 ## Day 2
 ## Day 3
