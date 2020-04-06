@@ -46,8 +46,35 @@ Learn VIM keys
 
 ## Day 1
 
-### 1. Basic keys
-### 2. VIM basic configuration
+### 1. Keep pressing `ESC` (This keeps you in the edit mode)
+
+- You should stay in edit mode most of the times.
+- Pressing `ESC` will take you to edit mode.
+    - You don't have to worry about mode for now.
+- Just keep pressing `ESC` button.
+
+
+### 2. Basic keys
+
+- Do not use arrow buttons!
+    - Use j,k for up and down,
+    - Use h,l for left and right instead
+
+
+### 3. VIM basic configuration
+
+- Since we will be keep pressing `ESC` all the time,
+    - let's map `jj` as the key for going to the edit mode.
+
+1. open `~/.vimrc` by `vi ~/.vimrc`
+2. Press `i` to enter insert mode
+3. add `imap jj <ESC>` to a new line
+4. Press `ESC` to enter command mode
+5. type `:wq`, which means save and exit
+
+
+- From now, make a habit of keep pressing `jj` all the time!
+
 
 ## Day 2
 ## Day 3
