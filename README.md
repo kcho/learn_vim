@@ -54,7 +54,7 @@ Learn VIM keys
 - Pressing `ESC` will take you to edit mode.
     - You don't have to worry about mode for now.
 - Just keep pressing `ESC` button.
-- Pressing `ESC` many times does not mess up the script.
+- Pressing `ESC` many times **does not mess up the script.**
 
 ![]( docs/key_movements_1_esc.gif)
 
