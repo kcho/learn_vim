@@ -44,6 +44,8 @@ Learn VIM keys
 - daily contents will focus heavily on revision
 
 
+---
+
 ## Day 1
 
 ### 1. Keep pressing `ESC` (This keeps you in the edit mode)
@@ -52,7 +54,9 @@ Learn VIM keys
 - Pressing `ESC` will take you to edit mode.
     - You don't have to worry about mode for now.
 - Just keep pressing `ESC` button.
+- Pressing `ESC` many times does not mess up the script.
 
+![]( docs/key_movements_1_esc.gif)
 
 ### 2. Basic keys
 
@@ -65,6 +69,8 @@ Learn VIM keys
 
 - Since we will be keep pressing `ESC` all the time,
     - let's map `jj` as the key for going to the edit mode.
+
+
 
 1. open `~/.vimrc` by `vi ~/.vimrc`
 2. Press `i` to enter insert mode
