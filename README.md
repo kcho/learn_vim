@@ -60,9 +60,13 @@ Learn VIM keys
 
 ### 2. Basic keys
 
+
 - Do not use arrow buttons!
     - Use j,k for up and down,
     - Use h,l for left and right instead
+
+![](docs/arrow_pressing.gif)
+![](docs/arrow_pressing_no.fig)
 
 
 ### 3. VIM basic configuration
@@ -101,3 +105,6 @@ Learn VIM keys
 ## Day 18
 ## Day 19
 ## Day 20
+
+
+
